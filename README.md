@@ -1,0 +1,2 @@
+# COVID19
+The problem with the COVID19 weight is that there is no real coordination between scientific researchers from different disciplines. Indeed the ab of exchange of information on SARS-COV2 is almost non-existent between medical experts with physicists, biologists or specialists in the field of nanotechnologies. This technical and scientific report merges all the information on the problem of finding the best solutions in an unconventional way.
